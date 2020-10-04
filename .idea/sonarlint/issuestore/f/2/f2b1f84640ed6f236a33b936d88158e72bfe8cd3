@@ -1,0 +1,22 @@
+
+0
+java:S1220""Move this file to a named package.
+W
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8§†¶’Ï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ş”¢¾8§†¶’Ï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’†ûÓ8§†¶’Ï.
+W
+java:S18545":Remove this useless assignment to local variable "server".(€ÎÌø8§†¶’Ï.
+G
+java:S14811"+Remove this unused "server" local variable.(õş˜18§†¶’Ï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æâ¢Û8§†¶’Ï.
+Z
+java:S11970"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8§†¶’Ï.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8§†¶’Ï.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8§†¶’Ï.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(„¨÷öıÿÿÿÿ8§†¶’Ï.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8§†¶’Ï.
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(Õş¸øÿÿÿÿ8§†¶’Ï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ¿ç‚8§†¶’Ï.
