@@ -5,11 +5,11 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 import java.util.List;
-
+/*
 public class ChatServer {
-    private Socket          socket   = null;
-    private ServerSocket    server   = null;
-    private DataInputStream streamIn =  null;
+    private Socket socket = null;
+    private ServerSocket server = null;
+    private DataInputStream streamIn = null;
 
     public ChatServer(int port) {
         try {
@@ -54,3 +54,4 @@ public class ChatServer {
     }
 
 }
+*/

@@ -1,0 +1,14 @@
+
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8¤ò—€Ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âøê•şÿÿÿÿ8¤ò—€Ñ.
+E	java:S108")Either remove or fill this block of code.(Æâ­ê8¤ò—€Ñ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­µŒéùÿÿÿÿ8¤ò—€Ñ.
+G
+java:S1068	"*Remove this unused "server" private field.(ş¦•8¤ò—€Ñ.
+n	java:S116
+"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‡ïúúÿÿÿÿ8¤ò—€Ñ.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ç½´šûÿÿÿÿ8¤ò—€Ñ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­µŒéùÿÿÿÿ8¤ò—€Ñ.

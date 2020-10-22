@@ -1,0 +1,26 @@
+
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ş”¢¾8²±—€Ñ.
+W
+java:S1854E":Remove this useless assignment to local variable "server".(±•œ¬8²±—€Ñ.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(‰ñ”üøÿÿÿÿ8²±—€Ñ.
+I
+java:S1874:",Remove this use of "stop"; it is deprecated.(Áñë›8²±—€Ñ.
+Z
+java:S1197?"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8²±—€Ñ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÜÜÀ¥8²±—€Ñ.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ĞÊÒ¥ÿÿÿÿÿ8²±—€Ñ.
+w
+java:S1450"URemove the "client" field and declare it as a local variable in the relevant methods.(íˆœ¬şÿÿÿÿ8²±—€Ñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’†ûÓ8²±—€Ñ.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ï¡„8²±—€Ñ.
+M
+java:S1481@"+Remove this unused "server" local variable.(İÆ˜èÿÿÿÿÿ8²±—€Ñ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„¨÷öıÿÿÿÿ8²±—€Ñ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æâ¢Û8²±—€Ñ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(§­ï©8²±—€Ñ.
+V
+java:S1128"4Remove this unused import 'java.io.DataInputStream'.(”•úºÿÿÿÿÿ8š¿ÉÑ.
+Z
+java:S1128"8Remove this unused import 'java.io.BufferedInputStream'.(Š—€åûÿÿÿÿ8š¿ÉÑ.
